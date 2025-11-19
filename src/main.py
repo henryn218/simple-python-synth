@@ -5,9 +5,8 @@ def main():
     print(
         "\n",
         "This simple synthesiser allows you to play sine or square wave tones using your computer keyboard.\n",
-        "The z key plays the note C4 (261.63 Hz), otherwise known as middle C.\n",
-        "The keys are laid out like a piano keyboard:\n",
-        "s x d c v g b h n j m , l . ; / each play a semitone step up from the previous note.\n",
+        "The q and , keys play the note C4 (261.63 Hz) - middle C.\n",
+        "The keys are laid out like a piano keyboard above and below those notes.\n",
         "\nPress the Esc key to exit. Note you won't be able to use your keyboard while the synthesiser is running.\n",
     )
 
