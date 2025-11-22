@@ -21,7 +21,7 @@ python src/main.py
 ```
 Press the Esc key to exit. Note you won't be able to use your keyboard while the synthesiser is running.
 
-At the moment only 2 oscillators have been implemented, one for sine waves and the other square waves. Follow the prompts to select which you want to use when you run the program.
+At the moment 3 oscillators have been implemented, for sine waves, square waves and sawtooth waves. Follow the prompts to select which you want to use when you run the program.
 
 ## Playing notes
 
