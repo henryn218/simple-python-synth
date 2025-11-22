@@ -14,10 +14,11 @@ def main():
         "Choose an oscillator type by typing a number then press Enter to start...\n"
         "1. Sine Oscillator (default)\n"
         "2. Square Oscillator\n"
+        "3. Sawtooth Oscillator\n"
     )
 
-    while oscillator_choice not in ("1", "2"):
-        oscillator_choice = input("Please type 1 or 2 then press Enter: ")
+    while oscillator_choice not in ("1", "2", "3"):
+        oscillator_choice = input("Please type 1, 2 or 3 then press Enter: ")
 
     print("\nStarting synthesiser...\n")
 
